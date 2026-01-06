@@ -1,5 +1,5 @@
 
-package EJ2;
+package EJ1;
 
 import java.util.Random;
 

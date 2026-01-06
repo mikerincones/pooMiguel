@@ -1,6 +1,4 @@
-package EJ2;
-
-import org.w3c.dom.ls.LSOutput;
+package EJ1;
 
 public class Tester {
     public static void main() {
