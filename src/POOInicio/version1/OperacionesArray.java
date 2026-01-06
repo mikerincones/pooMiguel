@@ -14,6 +14,7 @@ Definir una clase OperacionesArray con los siguientes métodos:
 Definir una clase Tester para utilizar OperacionesArray.
 * */
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class OperacionesArray {
